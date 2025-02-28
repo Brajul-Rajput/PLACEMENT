@@ -7,6 +7,6 @@ public class Sum {
         int a=sc.nextInt();
         System.out.println("enter the number :");
         int b=sc.nextInt();
-        System.out.println( "sum :"+(a+b));
+        System.out.println( "sum : "+(a+b));
     }
 }
